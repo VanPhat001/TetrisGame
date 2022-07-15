@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Temp_Code\TetrisGameSolution\TetrisGame\bin\Debug\TetrisGame.exe.config
+C:\Users\Admin\Desktop\Temp_Code\TetrisGameSolution\TetrisGame\bin\Debug\TetrisGame.exe
+C:\Users\Admin\Desktop\Temp_Code\TetrisGameSolution\TetrisGame\bin\Debug\TetrisGame.pdb
+C:\Users\Admin\Desktop\Temp_Code\TetrisGameSolution\TetrisGame\obj\Debug\TetrisGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Temp_Code\TetrisGameSolution\TetrisGame\obj\Debug\TetrisGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Temp_Code\TetrisGameSolution\TetrisGame\obj\Debug\TetrisGame.Properties.Resources.resources
+C:\Users\Admin\Desktop\Temp_Code\TetrisGameSolution\TetrisGame\obj\Debug\TetrisGame.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Temp_Code\TetrisGameSolution\TetrisGame\obj\Debug\TetrisGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Temp_Code\TetrisGameSolution\TetrisGame\obj\Debug\TetrisGame.exe
+C:\Users\Admin\Desktop\Temp_Code\TetrisGameSolution\TetrisGame\obj\Debug\TetrisGame.pdb
+C:\Users\Admin\Desktop\Temp_Code\TetrisGameSolution\TetrisGame\obj\Debug\TetrisGame.Views.StartGameForm.resources
+C:\Users\Admin\Desktop\Temp_Code\TetrisGameSolution\TetrisGame\obj\Debug\TetrisGame.MenuForm.resources
+C:\Users\Admin\Desktop\Temp_Code\TetrisGameSolution\TetrisGame\obj\Debug\TetrisGame.Views.SettingForm.resources
